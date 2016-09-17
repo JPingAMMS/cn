@@ -2,8 +2,13 @@
 published: true
 layout: post
 title: 基于Jekyll和GitHub Pages的博客
-category: life html
-tag: jekyll 博客 GitHub
+category: 
+- life
+- html
+tag: 
+- jekyll
+- 博客
+- GitHub
 ---
 
 开辟这个博客纯属机缘巧合。三天前，我在[COS](http://cos.name/)闲逛。这里是中国R语言会议发起的地方，但是，目前活跃度似乎不高。这没关系，我是来看看有没有可以下载的文档和幻灯的。马上，我发现了R会议提交的幻灯，并且注意到翻译R语言书籍的几位useR也在其中。
