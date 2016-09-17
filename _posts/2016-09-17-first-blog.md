@@ -2,7 +2,7 @@
 published: true
 layout: post
 title: 软件奶妈
-categories: life
+category: life
 tag: 妈
 ---
 
