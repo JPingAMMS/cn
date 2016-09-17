@@ -6,7 +6,7 @@ comments: yes
 
 # 我是谁
 
-一个在帝都工作的河南郑州人。大部分时间里，我在捣鼓测序数据和 [GitHub](https://github.com/jpingamms) ，前者说明我是基因组数据挖掘师，后者说明我是深度码农。除了研究R和perl，我也浏览 [DP](http://www.dianping.com/)，有计划的跑步，偶尔打乒乓球和羽毛球。作为一俗人，我喜欢泡BT/PT站（[HUDBT](http://www.kmgtp.org/)、[CMCT-PT](https://hdcmct.org/)）、看小说、来局中国象棋等等。我喜欢极简风格的事物，干净而美好。
+一个在帝都工作的河南郑州人。大部分时间里，我在捣鼓测序数据和 [GitHub](https://github.com/jpingamms) ，前者说明我是基因组数据挖掘师，后者说明我是深度码农。除了研究[R](https://www.r-project.org)和[perl](https://www.perl.org/)，我也浏览 [DP](http://www.dianping.com/)，有计划的跑步，偶尔打乒乓球和羽毛球。作为一俗人，我喜欢泡BT/PT站（[HUDBT](http://www.kmgtp.org/)、[CMCT-PT](https://hdcmct.org/)）、看小说、来局中国象棋等等。我喜欢极简风格的事物，干净而美好。
 
 # 本站架构
 
