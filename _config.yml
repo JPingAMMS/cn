@@ -1,6 +1,5 @@
-markdown: kramdown
+markdown: redcarpet
 permalink: /:year/:month/:title/
 url: http:/jpingamms.github.io/cn
 author: 平杰
 highlighter: rouge
-
