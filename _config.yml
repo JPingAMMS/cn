@@ -1,5 +1,5 @@
 permalink: /:year/:month/:title/
 url: http:/jpingamms.github.io/cn
 author: 平杰
-highlighter: pygments
+highlighter: rouge
 
