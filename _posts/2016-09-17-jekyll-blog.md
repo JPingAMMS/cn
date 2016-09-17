@@ -4,7 +4,6 @@ layout: post
 title: 基于Jekyll和GitHub Pages的博客
 category: 
 - life
-- html
 tag: 
 - jekyll
 - 博客
